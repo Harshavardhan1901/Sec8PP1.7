@@ -1,0 +1,8 @@
+D:\M\OSL\Sec8\Phase1Section4.7\Phase1Section4.7\bin\Debug\Phase1Section4.7.exe.config
+D:\M\OSL\Sec8\Phase1Section4.7\Phase1Section4.7\bin\Debug\Phase1Section4.7.exe
+D:\M\OSL\Sec8\Phase1Section4.7\Phase1Section4.7\bin\Debug\Phase1Section4.7.pdb
+D:\M\OSL\Sec8\Phase1Section4.7\Phase1Section4.7\obj\Debug\Phase1Section4.7.csproj.AssemblyReference.cache
+D:\M\OSL\Sec8\Phase1Section4.7\Phase1Section4.7\obj\Debug\Phase1Section4.7.csproj.SuggestedBindingRedirects.cache
+D:\M\OSL\Sec8\Phase1Section4.7\Phase1Section4.7\obj\Debug\Phase1Section4.7.csproj.CoreCompileInputs.cache
+D:\M\OSL\Sec8\Phase1Section4.7\Phase1Section4.7\obj\Debug\Phase1Section4.7.exe
+D:\M\OSL\Sec8\Phase1Section4.7\Phase1Section4.7\obj\Debug\Phase1Section4.7.pdb
